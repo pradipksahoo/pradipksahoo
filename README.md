@@ -30,6 +30,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
+<h2 align="left">🌐Connect With Me</h2>
+
+🔗 LinkedIn:https://www.linkedin.com/in/pradip-sahoo-08373b268/
+
+📧 Email: ps0616448@gmail.com
+
+💻 GitHub:https://github.com/pradipksahoo
 
 <h2 align="left">Social Media</h2>
 
