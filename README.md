@@ -4,9 +4,6 @@
 <img align="right" alt="coding" width=400 src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left">🎯 Aspiring Data Analyst with a strong foundation in data cleaning, analysis, and visualization<br><br>📊 Skilled in Excel, SQL, Python, Power BI, and basic Statistics<br><br>🧠 Passionate about turning raw data into meaningful insights that support business decisions<br><br>🔍 Experienced in analyzing sales, customer, and performance data through hands-on projects<br><br>📈 Comfortable working with dashboards, reports, and KPIs<br><br>🛠️ Hands-on practice with real-world datasets and end-to-end data analysis workflows<br><br>📚 Continuous learner, improving skills in data storytelling and analytics tools<br><br>🤝 Open to internships, entry-level roles, and collaborative projects<br><br>🚀 Goal: Grow as a data professional and solve real business problems using data</p>
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pradipksahoo.pradipksahoo&right_color=blue"  />
-</div>
 
 
 ###
