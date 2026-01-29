@@ -42,7 +42,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradip-sahoo&show_icons=true&theme=tokyonight" />
+  <img src="<img width="1064" height="377" alt="Screenshot 2026-01-29 094750" src="https://github.com/user-attachments/assets/46126f8e-a7eb-4221-ba85-4377ddb07ba2" />
+" />
 </p>
 
 <p align="center">
