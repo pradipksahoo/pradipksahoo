@@ -1,3 +1,4 @@
+![logo](https://github.com/pradipksahoo/pradipksahoo/blob/main/Data%20Analst%202.png)
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Pradip Kumar Sahoo</h1>
 <h3 align="center">Data Analyst | SQL • Excel • Power BI • Python</h3>
